@@ -11,4 +11,4 @@ Development ML model to predict US Real Estate housing prices
 
 ## Dataset Description:
 
-## Data DictionRY:
+## Data Dictionry:
